@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+
+.idea
+./idea
+
+
+# Datos grandes
+data/
+*.csv
+*.parquet
+
