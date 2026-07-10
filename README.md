@@ -6,17 +6,6 @@
 > Se usaron datos desde 1872 hasta 2026
 ---
 
-
-
-## Descripcion corta (para GitHub About)
-
-```
-ML pipeline con metodologia CRISP-DM para predecir resultados del FIFA World Cup.
-Feature engineering historico, 4 modelos de clasificacion y simulacion Monte Carlo TOP 4.
-```
-
----
-
 ## Tabla de contenidos
 
 1. [Descripcion general](#1-descripcion-general)
