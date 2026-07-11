@@ -6,6 +6,7 @@ __pycache__/
 # Entornos virtuales
 venv/
 .env/
+.venv/
 
 .idea
 ./idea
