@@ -13,6 +13,6 @@ venv/
 
 # Datos grandes
 data/
-*.csv
+
 *.parquet
 

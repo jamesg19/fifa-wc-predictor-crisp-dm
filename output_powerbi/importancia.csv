@@ -1,0 +1,21 @@
+﻿Variable,Importancia,Modelo
+h2h_v,0.1621,Gradient Boosting
+dif_gc,0.1594,Gradient Boosting
+h2h_d,0.1592,Gradient Boosting
+dif_pts,0.1556,Gradient Boosting
+dif_gf,0.0606,Gradient Boosting
+away_enc,0.0498,Gradient Boosting
+home_enc,0.0373,Gradient Boosting
+anio,0.0319,Gradient Boosting
+home_dif_f,0.0304,Gradient Boosting
+neutral,0.0287,Gradient Boosting
+away_dif_f,0.0234,Gradient Boosting
+h2h_e,0.0222,Gradient Boosting
+away_gc_f,0.0167,Gradient Boosting
+away_gf_f,0.0123,Gradient Boosting
+home_gf_f,0.012,Gradient Boosting
+away_pts_f,0.0104,Gradient Boosting
+home_pts_f,0.0101,Gradient Boosting
+mes,0.0093,Gradient Boosting
+home_gc_f,0.0073,Gradient Boosting
+es_wc,0.0011,Gradient Boosting
